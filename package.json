@@ -1,0 +1,19 @@
+{
+  "name"    : "Electron-Angular-ES6",
+  "version" : "0.1.0",
+  "main"    : "main.js",
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "angular": "github:angular/bower-angular@^1.5.8"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.41"
+  }
+}
